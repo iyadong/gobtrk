@@ -97,7 +97,7 @@ class _HomePageState extends State<HomePage> {
       _MenuItem(
         icon: Icons.map,
         title: 'Lacak Mobil',
-        subtitle: 'Posisi & goal aktif',
+        subtitle: 'Posisi dan Tujuan Mobil',
         color: theme.colorScheme.primary,
         onTap: _openMap,
       ),
