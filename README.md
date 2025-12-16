@@ -81,7 +81,7 @@ Supaya perintah `flutter` bisa dipakai di terminal dari folder mana saja:
 
 Untuk build Android, Flutter pakai Java. Rekomendasi: **OpenJDK / Temurin JDK 17**.
 
-1. Buka: https://adoptium.net
+1. Buka: https://adoptium.net/temurin/releases?version=17&mode=filter&os=windows&arch=x64
 2. Pilih:
    - **Version**: 17 (LTS)
    - **Operating System**: Windows
