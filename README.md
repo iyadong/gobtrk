@@ -118,15 +118,16 @@ Kita akan:
 
 1. Buka halaman download Android Studio & tools, lalu cari bagian:  
    **Command line tools only** (untuk Windows).
-2. Download file ZIP: `commandlinetools-win-xxxx_latest.zip`.
-3. Buat folder:
+2. Buka: https://developer.android.com/studio#command-line-tools-only
+3. Download file ZIP: `commandlinetools-win-xxxx_latest.zip`.
+4. Buat folder:
 
    ```text
    C:\Android\SDK
    C:\Android\SDK\cmdline-tools
    ```
 
-4. Ekstrak ZIP ke folder:
+5. Ekstrak ZIP ke folder:
 
    ```text
    C:\Android\SDK\cmdline-tools
@@ -138,7 +139,7 @@ Kita akan:
    C:\Android\SDK\cmdline-tools\cmdline-tools\bin
    ```
 
-5. Rename:
+6. Rename:
 
    - Dari:
 
