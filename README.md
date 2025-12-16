@@ -28,7 +28,7 @@ Flutter butuh Git, jadi sekalian kita install.
 
 1. Buka dokumentasi Flutter untuk Windows:  
    https://docs.flutter.dev/install/archive
-2. Di bagian **Get the Flutter SDK**, download **Flutter SDK (Windows, channel Stable)** → file ZIP.
+2. Scroll ke bagian Install and set up Flutter → Download the Flutter SDK bundle lalu download Stable (Windows) ZIP.
 3. Buat folder misalnya:
 
    ```text
