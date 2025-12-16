@@ -27,7 +27,7 @@ Flutter butuh Git, jadi sekalian kita install.
 ### 3. Install Flutter SDK (tanpa Android Studio)
 
 1. Buka dokumentasi Flutter untuk Windows:  
-   https://docs.flutter.dev/install/windows
+   https://docs.flutter.dev/install/archive
 2. Di bagian **Get the Flutter SDK**, download **Flutter SDK (Windows, channel Stable)** → file ZIP.
 3. Buat folder misalnya:
 
